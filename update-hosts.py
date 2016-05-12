@@ -2,6 +2,8 @@
 # encoding: utf-8
 
 """
+wget https://github.com/shendongming/pyutils/raw/master/update-hosts.py
+sudo python update-hosts.py
 更新hosts 文件
 @author: sdm
 @software: PyCharm
