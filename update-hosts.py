@@ -4,6 +4,7 @@
 """
 wget https://github.com/shendongming/pyutils/raw/master/update-hosts.py
 sudo python update-hosts.py
+curl https://www.google.com/ncr
 更新hosts 文件
 @author: sdm
 @software: PyCharm
